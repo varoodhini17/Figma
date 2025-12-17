@@ -30,6 +30,7 @@ Figma
 
 # CODE:
 ```
+<!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -45,6 +46,7 @@ Figma
       </p>
       <div class="rectangle"></div>
       <div class="text-wrapper">Register now</div>
+      <img class="FIGMA-h" src="img/FIGMA-h-1.png" />
     </div>
   </body>
 </html>
@@ -115,11 +117,13 @@ Figma
   </body>
 </html>
 
+
+
 ```
 
 # OUTPUT:
-![alt text](f1.png)
-![alt text](f2.png)
+![alt text](F1.1.png)
+![alt text](FIG2.1.png)
 ![alt text](f3.png)
 ![alt text](f4.png)
 ![alt text](f5.png)
