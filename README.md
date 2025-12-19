@@ -122,11 +122,14 @@ Figma
 ```
 
 # OUTPUT:
-![alt text](F1.1.png)
-![alt text](FIG2.1.png)
-![alt text](f3.png)
-![alt text](f4.png)
-![alt text](f5.png)
+![alt text](<Screenshot (186).png>)
+![alt text](<Screenshot (187).png>)
+![alt text](<Screenshot (188).png>)
+![alt text](<Screenshot (189).png>)
+
+
+
+
 
 
 
